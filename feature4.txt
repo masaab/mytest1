@@ -4,3 +4,4 @@ purple
 red
 pink
 gray
+maroon
