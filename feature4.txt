@@ -5,3 +5,6 @@ red
 pink
 gray
 maroon
+white
+orange
+
