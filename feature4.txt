@@ -2,3 +2,6 @@ I am the new feature4 branch
 yellow
 blue 
 green
+red
+pink
+gray
