@@ -4,3 +4,5 @@ purple
 red
 pink
 gray
+white
+orange
