@@ -1,9 +1,6 @@
-I am the new feature4 branch
 yellow
 blue 
 purple
 red
 pink
 gray
-I am doing changes from main branch
-A new changes for gobal setting
